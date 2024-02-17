@@ -1,4 +1,4 @@
-yping
+import typing
 from PyQt5 import QtCore
 from PyQt5.QtWidgets import QApplication, QWidget
 from PyQt5.QtWidgets import QMainWindow
